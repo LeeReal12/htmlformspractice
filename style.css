@@ -1,0 +1,10 @@
+body {
+  padding: 10px;
+}
+
+.group {
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 15px;
+}
